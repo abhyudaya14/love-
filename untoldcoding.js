@@ -1,6 +1,5 @@
 const text =
-  "I want to share something that's been on my mind. Every passing day without you feels like a piece of me is missing. Your smile, your warmth, your presence—these are the things I find myself longing for more than ever. Life seems a little less vibrant without you by my side. There's a void in my heart that only your love can fill. Since the day we met, you've brought so much joy into my life. From our first conversations to the moments we spend together, each memory is treasured in my heart. Every laugh shared and every glance exchanged has only deepened my affection for you. Though our time together has been relatively
-    ....................  .";
+  "I want to share something that's been on my mind. Every passing day without you feels like a piece of me is missing. Your smile, your warmth, your presence—these are the things I find myself longing for more than ever. Life seems a little less vibrant without you by my side. There's a void in my heart that only your love can fill. Since the day we met, you've brought so much joy into my life. From our first conversations to the moments we spend together, each memory is treasured in my heart. Every laugh shared and every glance exchanged has only deepened my affection for you. Though our time together has been relatively";
 
 const paragraph = text.split("");
 
